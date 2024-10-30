@@ -7,8 +7,11 @@
 <div style="dislay: inline_block"><br/> <img style="height:40px ; width:40px;" aling="center" alt="html5" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
 <img style="height:40px ; width:40px;" aling="center" alt="CSS" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
 <img style="height:35px ; width:40px;" aling="center" alt="Javascript" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img style="height:40px ; width:40px;" aling="center" alt="Typesricpt" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+<img style="height:35px ; width:40px;" aling="center" alt="Typesricpt" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 <img style="height:40px ; width:40px;" aling="center" alt="React" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
+<img style="height:40px ; width:40px;" aling="center" alt="Node.js" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img style="height:40px ; width:40px;" aling="center" alt="Git" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img style="height:40px ; width:40px;" aling="center" alt="Figma" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 </div> 
 
 ## Contato
