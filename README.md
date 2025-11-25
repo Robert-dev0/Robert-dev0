@@ -1,27 +1,53 @@
-### Olá Eu sou o Robert🙂
+# Olá, eu sou o Robert👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-dev0&show_icons=true&theme=dark)
+<p>Desenvolvedor Full-Stack | 1.5 Anos de Experiência | Especialista em Next.js, React e TypeScript</p>
+<p>Focado em entregar soluções de alta performance e experiências digitais intuitivas. aplicando essas tecnologias para construir aplicações escaláveis e robustas. Busco integrar uma equipe onde eu possa aplicar, aprender e crescer, transformando minhas habilidades em soluções reais para o mercado.</p>
 
-## Tecnologias que eu uso no meu dia🙂
+<a href="https://www.linkedin.com/in/robert-kawan-63b068266/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+</a>
 
-<div style="dislay: inline_block"><br/> <img style="height:40px ; width:40px;" aling="center" alt="html5" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-<img style="height:40px ; width:40px;" aling="center" alt="CSS" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-<img style="height:35px ; width:40px;" aling="center" alt="Javascript" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img style="height:35px ; width:40px;" aling="center" alt="Typesricpt" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img style="height:40px ; width:40px;" aling="center" alt="React" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
-<img style="height:40px ; width:40px;" aling="center" alt="Node.js" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-<img style="height:40px ; width:40px;" aling="center" alt="Git" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img style="height:40px ; width:40px;" aling="center" alt="Figma" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-</div> 
+---
 
-## Contato
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robert-dev0&show_icons=true&theme=dracula)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-kawan-63b068266/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertkawan2506@gmail.com)
+---
 
+## 🛠️ Minha Caixa de Ferramentas
 
+<p>
+  <a href="https://skillicons.dev">
+    <img height="45em" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img height="45em" src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img height="45em" src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img height="45em" src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img height="45em" src="https://skillicons.dev/icons?i=docker,git,vercel" />
+  </a>
+</p>
 
-## Ultimo videos:
-- []()</br>
-- []()</br>
-- []()</br>
+---
+
+## 🌱 No Que Estou Focando Agora
+
+* 🗺️ **Criando um aplicativo de turismo:** Catalogando pontos turísticos para ajudar visitantes a se localizar melhor e explorar a cidade sem se perder.
+* 🛡️ **Me aprofundando em cibersegurança:** Estudando práticas modernas de segurança, análise de vulnerabilidades e proteção de APIs e aplicações web.
+* 🧠 **Estudando arquitetura de dados, normalização e transações, aplicando práticas modernas de integridade e segurança com PostgreSQL e Redis.**
+
+---
+
+## 🎓 Carreira e Formação
+
+-   **Desenvolvedor Full-Stack** `(1.5+ anos)`
+-   **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Estácio `(Fev/2024 - Atualmente)`
+
