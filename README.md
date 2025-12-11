@@ -1,4 +1,4 @@
-# Olá, eu sou o Robert
+# Olá, eu sou o Robert🙂
 
 <p>Desenvolvedor Full-Stack | 1.5 Anos de Experiência | Especialista em Next.js, React e TypeScript</p>
 <p>Focado em entregar soluções de alta performance e experiências digitais intuitivas. aplicando essas tecnologias para construir aplicações escaláveis e robustas. Busco integrar uma equipe onde eu possa aplicar, aprender e crescer, transformando minhas habilidades em soluções reais para o mercado.</p>
